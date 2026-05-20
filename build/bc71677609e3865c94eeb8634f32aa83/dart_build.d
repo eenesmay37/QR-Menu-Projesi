@@ -1,0 +1,1 @@
+ C:\\Users\\yilme\\Desktop\\menumate\\build\\bc71677609e3865c94eeb8634f32aa83\\dart_build_result.json:  C:\\Users\\yilme\\Desktop\\menumate\\.dart_tool\\package_config.json C:\\Users\\yilme\\Desktop\\menumate\\pubspec.yaml C:\\flutter\\bin\\cache\\dart-sdk\\version c:\\users\\yilme\\desktop\\menumate\\.dart_tool\\package_config.json

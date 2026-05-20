@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "170762598738",
+    "firebase_url": "https://menumate-52b6d-default-rtdb.firebaseio.com",
+    "project_id": "menumate-52b6d",
+    "storage_bucket": "menumate-52b6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170762598738:android:be9c2f22fab7c4f2d6a28b",
+        "android_client_info": {
+          "package_name": "com.example.menumate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlTGLp_SyOfYTaLp5NX9ky1p3OkpY4wgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170762598738:android:e4557ed9a5a24707d6a28b",
+        "android_client_info": {
+          "package_name": "com.example.menumate_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlTGLp_SyOfYTaLp5NX9ky1p3OkpY4wgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
